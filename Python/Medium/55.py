@@ -4,7 +4,7 @@ def concatenate_strings(lst):
         result += item
     return result
 def main():
-    items = ["Hello", " ", 123, "World!"]
+    items = ["Hello", " ", "123"," ", "World!"]
     try:
         result = concatenate_strings(items)
         print(result)
