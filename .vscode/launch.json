@@ -7,9 +7,7 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/gonde/OneDrive/Documents/GitHub/Hacktober-Fest/C/Easy",
-      "program": "c:/Users/gonde/OneDrive/Documents/GitHub/Hacktober-Fest/C/Easy/build/Debug/outDebug",
+
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
