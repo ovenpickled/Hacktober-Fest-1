@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 
-int multiply(___, ___) {
+int multiply(a, b) {
     return a * b;  
 }
 
 int main() {
-    int ____= multiply(5, 3);  
+    int result= multiply(5, 3);  
     printf("%d\n", result);  
     return 0;
 }
